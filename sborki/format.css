@@ -13,3 +13,7 @@ p{
 body{
 		background-color: #8c8c8c;
 }
+.upanddown{
+ position: fixed;
+ background-color:#ff8e0d;
+}
