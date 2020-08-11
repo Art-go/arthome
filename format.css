@@ -13,4 +13,7 @@ p{
 body{
 		background-color: #8c8c8c;
 }
-.uparrow
+.uparrow{
+ position: fixed;
+ background-color:#ff8e0d;
+}
