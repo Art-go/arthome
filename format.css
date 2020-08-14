@@ -14,9 +14,10 @@ body{
 		background-color: #8c8c8c;
 }
 .upanddown{
- position: fixed;}
-#uparrow{
- position: fixed; absolute;
- bottom: 0px;
+ position: fixed;
  left:0;
+}
+#uparrow{
+ position: fixed;
+ bottom: 0px;
 }
