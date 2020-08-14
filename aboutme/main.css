@@ -124,6 +124,20 @@ hr {
  position: fixed;
  left:0;
 }
+#downarrow{
+    top: 0px;
+}
 #uparrow{
  bottom: 0px;
+}
+.sansserif{
+    font-family:  sans-serif, Arial ,Helvetica;
+}
+nav a{
+    background-color: #efef00;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #000 !important;
+    text-decoration: none
 }
