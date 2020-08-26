@@ -6,7 +6,7 @@ body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
     background-color: #8c8c8c;
-    padding: 10px;
+    padding: 15px;
     margin: 0;
 }
 h2 {
@@ -99,17 +99,8 @@ hr {
     margin-top: -35px;
     margin-bottom: -25px;
 }
-#contacts img {
-    height: 50px;
-    width: 50px;
-    margin-left: 7px;
-    margin-right: 7px;
-}
 #contacts a {
     text-decoration: none;
-}
-#contacts img:hover {
-    opacity: 0.8;
 }
 #contacts {
     text-align: center;
@@ -136,6 +127,14 @@ hr {
 nav a{
     background-color: #efef00;
     padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: #000 !important;
+    text-decoration: none;
+}
+ul li a{
+    background-color: #efef00;
+    padding: 0px;
     margin-bottom: 10px;
     border-radius: 10px;
     color: #000 !important;
